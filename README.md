@@ -29,4 +29,4 @@ Follow the steps found in webpage and seek to understand what is happening at ea
 3.  In Canvas, submit the URL to your repository
 	
 
-#### Github Classroom Invitation URL: 
+#### Github Classroom Invitation URL: https://classroom.github.com/a/RKEevvp6
